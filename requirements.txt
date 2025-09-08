@@ -1,0 +1,3 @@
+selenium==4.9.1
+openpyxl==3.0.10
+webdriver-manager==4.0.1

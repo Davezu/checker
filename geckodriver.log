@@ -1,0 +1,130 @@
+1757334929921	geckodriver	INFO	Listening on 127.0.0.1:56103
+1757334933005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofileLdAp8F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757334933913	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757334934065	Marionette	INFO	Listening on port 56111
+WebDriver BiDi listening on ws://127.0.0.1:56104
+Read port: 56111
+1757334934307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1757334960061	Marionette	INFO	Stopped listening on port 56111
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback
+1757335404829	geckodriver	INFO	Listening on 127.0.0.1:56225
+1757335407893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofilexMi2Hw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757335408120	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757335408181	Marionette	INFO	Listening on port 56233
+WebDriver BiDi listening on ws://127.0.0.1:56226
+Read port: 56233
+1757335408286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1757335437397	Marionette	INFO	Stopped listening on port 56233
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback
+1757335825282	geckodriver	INFO	Listening on 127.0.0.1:56482
+1757335828335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofile8mXsw0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757335828540	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757335828604	Marionette	INFO	Listening on port 56490
+WebDriver BiDi listening on ws://127.0.0.1:56483
+Read port: 56490
+1757335828717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.codashop.com/workbox-268ab84a.js, line 1: non-precached-url: non-precached-url :: [{"url":"/"}]
+1757335855399	Marionette	INFO	Stopped listening on port 56490
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback
+1757335867924	geckodriver	INFO	Listening on 127.0.0.1:56553
+1757335870992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofile1r6edP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757335871204	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757335871260	Marionette	INFO	Listening on port 56561
+WebDriver BiDi listening on ws://127.0.0.1:56554
+Read port: 56561
+1757335871370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.codashop.com/workbox-268ab84a.js, line 1: non-precached-url: non-precached-url :: [{"url":"/"}]
+1757335900014	Marionette	INFO	Stopped listening on port 56561
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback
+1757336279788	geckodriver	INFO	Listening on 127.0.0.1:56779
+1757336282832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofilexFbitN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757336283043	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757336283108	Marionette	INFO	Listening on port 56789
+WebDriver BiDi listening on ws://127.0.0.1:56780
+Read port: 56789
+1757336283233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1757336642684	geckodriver	INFO	Listening on 127.0.0.1:56963
+1757336645729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 6964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofilejh3y2x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757336645957	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757336646087	Marionette	INFO	Listening on port 56975
+WebDriver BiDi listening on ws://127.0.0.1:56964
+Read port: 56975
+1757336646176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1757336649079	Marionette	INFO	Stopped listening on port 56975
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback
+1757337371292	geckodriver	INFO	Listening on 127.0.0.1:57271
+1757337374355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... 7272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\i7\\AppData\\Local\\Temp\\rust_mozprofile7mUbeq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1757337374572	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1757337374708	Marionette	INFO	Listening on port 57279
+WebDriver BiDi listening on ws://127.0.0.1:57272
+Read port: 57279
+1757337374795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://micro-assets.foodora.com/21270.d40ba4498e1f79f168d3.esm.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.foodpanda.ph/lJuB4eTB/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.siftscience.com/s.js, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://micro-assets.foodora.com/34249.155fa1c4a13c0514ff52.esm.js, line 2: Script terminated by timeout at:
+i@https://micro-assets.foodora.com/34249.155fa1c4a13c0514ff52.esm.js:2:57120
+
+1757337386485	Marionette	INFO	Stopped listening on port 57279
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 102: Error: Unknown callback

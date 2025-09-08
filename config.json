@@ -1,0 +1,50 @@
+{
+  "website": {
+    "url": "https://www.foodpanda.ph/pandapay/top-up/new/payment",
+    "selectors": {
+      "amount_input": "input[placeholder='Enter amount']",
+      "credit_card_option": "input[type='radio'][value='credit_card']",
+      "card_number": "input[placeholder='Card number']",
+      "expiry_date": "input[placeholder='MM/YY']",
+      "cvc": "input[placeholder='CVC']",
+      "cardholder_name": "input[placeholder='Name of the card holder']",
+      "submit_button": "button[type='submit']",
+      "pay_button": "button:contains('Pay')",
+      "confirmation_message": ".success-message",
+      "transaction_id": ".transaction-reference"
+    }
+  },
+  "cards": [
+    {
+      "name": "Personal Visa",
+      "number": "4111111111111111",
+      "expiry": "12/25",
+      "cvc": "123",
+      "holder_name": "John Doe"
+    },
+    {
+      "name": "Business MasterCard",
+      "number": "5555555555554444",
+      "expiry": "06/26",
+      "cvc": "456",
+      "holder_name": "Jane Smith"
+    },
+    {
+      "name": "Premium Amex",
+      "number": "378282246310005",
+      "expiry": "09/27",
+      "cvc": "789",
+      "holder_name": "Alex Johnson"
+    }
+  ],
+  "foodpanda_login": {
+    "email": "your-email@example.com",
+    "password": "your-password"
+  },
+  "browser_settings": {
+    "headless": false,
+    "window_size": [1920, 1080],
+    "implicit_wait": 10
+  },
+  "excel_file": "transactions.xlsx"
+}
